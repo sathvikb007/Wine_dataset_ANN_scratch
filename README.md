@@ -1,6 +1,6 @@
 # Classification of Wine
 
-The project attmepts to classify wine into either red or white whine by implementing a
+The project attmepts to classify wine into either red or white wine by implementing a
 simple artificial neural network(ANN) from scratch. 
 
 The dataset is taken from the wine datset on Kaggle. The link is given below:
